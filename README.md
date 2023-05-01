@@ -4,11 +4,11 @@
   - Username
   - First Name
   - Last Name
-2. Contact
- - Phone 1
- - Phone 2
- - Email Address 1
- - Email Address 2
+- Contact
+  - Phone 1
+  - Phone 2
+  - Email Address 1
+  - Email Address 2
 3. Address
 4. Billing
 #### Site Information
