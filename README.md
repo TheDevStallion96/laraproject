@@ -17,3 +17,6 @@ Contacts
 -   EMAIL
 -   SKYPE
 -   ADDRESS
+
+Install Laravel Livewire Data Tables:
+composer require rappasoft/laravel-livewire-tables
