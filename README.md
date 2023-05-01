@@ -1,16 +1,16 @@
 ### Client Management:
 - #### General Information
-  - Profile
+  1. Profile
    - Username
    - First Name
    - Last Name
-  - Contact
+  2. Contact
    - Phone 1
    - Phone 2
    - Email Address 1
    - Email Address 2
-  - Address
-  - Billing
+  3. Address
+  4. Billing
 - Site Information
 - Equipment Information
 - Document Information
