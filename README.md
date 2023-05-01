@@ -1,9 +1,9 @@
 ### Client Management:
 - #### General Information
   1. Profile
-   - Username
-   - First Name
-   - Last Name
+   -- Username
+   -- First Name
+   -- Last Name
   2. Contact
    - Phone 1
    - Phone 2
