@@ -1,5 +1,9 @@
 ### Client Management:
 - #### General Information
+  - Profile
+  - Contact
+  - Address
+  - Billing
 - Site Information
 - Equipment Information
 - Document Information
