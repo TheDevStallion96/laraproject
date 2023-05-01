@@ -2,7 +2,7 @@
 
 #### General Information (Feature)
 - Profile Section:
-  -Username
+  - Username
   - First Name
   - Last Name
 
