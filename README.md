@@ -1,17 +1,22 @@
 ### Client Management:
 
-#### General Information **Feature**
+#### General Information (Feature)
 - Profile Section:
   - Username
   - First Name
   - Last Name
+
 - Contact Section:
   - Phone 1
   - Phone 2
   - Email Address 1
   - Email Address 2
+
 - Address Section:
+  - Address Line 1
+
 - Billing Section:
+  - Method
 
 #### Site Information
 #### Equipment Information
