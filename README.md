@@ -1,6 +1,6 @@
 ### Client Management:
 
-#### General Information
+#### ==General Information==
 - Profile Section:
   - Username
   - First Name
