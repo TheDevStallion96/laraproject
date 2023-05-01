@@ -16,7 +16,12 @@
   - Address Line 1
 
 - Billing Section:
-  - Method
+  - Method Name
+  - Email Address
+  - Card Holders Name
+  - Card Number
+  - Card Expiration Date
+  - Card CVC Number
 
 #### Site Information
 #### Equipment Information
